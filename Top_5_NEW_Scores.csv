@@ -1,0 +1,478 @@
+,active_status,blog_score,book_score,conference_score,full_name,knolder_id,knolx_score,oscontribution_score,quarter,researchpaper_score,studio_id,studio_name,techhub_score,webinar_score,year,total_score
+0,1,10,0,0,Sidharth Khattri,1,0,0,Q1,0,8.0,Scala Studio,0,0,2014,10
+1,1,10,0,0,Sidharth Khattri,1,0,0,Q2,0,8.0,Scala Studio,0,0,2014,10
+2,1,15,0,0,Sidharth Khattri,1,0,0,Q3,0,8.0,Scala Studio,0,0,2014,15
+3,1,15,0,0,Sidharth Khattri,1,0,0,Q4,0,8.0,Scala Studio,0,0,2014,15
+4,1,10,0,0,Narayan Kumar,3,0,0,Q2,0,8.0,Scala Studio,0,0,2015,10
+5,1,5,0,0,Narayan Kumar,3,0,0,Q3,0,8.0,Scala Studio,0,0,2015,5
+6,1,5,0,0,Narayan Kumar,3,0,0,Q4,0,8.0,Scala Studio,0,0,2015,5
+7,1,15,0,0,Narayan Kumar,3,0,0,Q1,0,8.0,Scala Studio,0,0,2016,15
+8,1,10,0,0,Harshit Daga,52,0,0,Q1,0,8.0,Scala Studio,0,0,2016,10
+9,1,5,0,0,Narayan Kumar,3,0,0,Q2,0,8.0,Scala Studio,0,0,2016,5
+10,1,5,0,0,Prabhat Kashyap,11,0,0,Q2,0,8.0,Scala Studio,0,0,2016,5
+11,1,5,0,0,Piyush Rana,76,0,0,Q2,0,8.0,Scala Studio,0,0,2016,5
+12,0,5,0,0,Sonu Mehrotra,129,0,0,Q2,0,8.0,Scala Studio,0,0,2016,5
+13,1,10,0,0,Prabhat Kashyap,11,0,0,Q3,0,8.0,Scala Studio,0,0,2016,10
+14,0,5,0,0,Sonu Mehrotra,129,0,0,Q3,0,8.0,Scala Studio,0,0,2016,5
+15,1,10,0,0,Prabhat Kashyap,11,0,0,Q4,0,8.0,Scala Studio,0,0,2016,10
+16,0,5,0,0,Sonu Mehrotra,129,0,0,Q4,0,8.0,Scala Studio,0,0,2016,5
+17,1,25,0,0,Piyush Rana,76,0,0,Q1,0,8.0,Scala Studio,0,0,2017,25
+18,1,10,0,0,Prabhat Kashyap,11,0,0,Q1,0,8.0,Scala Studio,0,0,2017,10
+19,1,5,0,0,Narayan Kumar,3,0,0,Q1,0,8.0,Scala Studio,0,0,2017,5
+20,0,5,0,0,Sonu Mehrotra,129,0,0,Q1,0,8.0,Scala Studio,0,0,2017,5
+21,1,10,0,0,Prabhat Kashyap,11,20,0,Q2,0,8.0,Scala Studio,0,0,2017,50
+22,1,5,0,0,Sidharth Khattri,1,0,0,Q2,0,8.0,Scala Studio,0,0,2017,5
+23,1,5,0,0,Harshit Daga,52,0,0,Q2,0,8.0,Scala Studio,0,0,2017,5
+24,1,5,0,0,Piyush Rana,76,0,0,Q2,0,8.0,Scala Studio,0,0,2017,5
+25,1,10,0,0,Prabhat Kashyap,11,20,0,Q3,0,8.0,Scala Studio,0,0,2017,50
+26,1,5,0,0,Piyush Rana,76,20,0,Q3,0,8.0,Scala Studio,0,0,2017,45
+27,1,5,0,0,Narayan Kumar,3,0,0,Q3,0,8.0,Scala Studio,0,0,2017,5
+28,1,5,0,0,Harshit Daga,52,0,0,Q3,0,8.0,Scala Studio,0,0,2017,5
+29,0,5,0,0,Sonu Mehrotra,129,0,0,Q3,0,8.0,Scala Studio,0,0,2017,5
+30,1,10,0,0,Prabhat Kashyap,11,20,0,Q4,0,8.0,Scala Studio,0,0,2017,50
+31,1,5,0,0,Piyush Rana,76,20,0,Q4,0,8.0,Scala Studio,0,0,2017,45
+32,1,5,0,0,Narayan Kumar,3,0,0,Q4,0,8.0,Scala Studio,0,0,2017,5
+33,1,5,0,0,Harshit Daga,52,0,0,Q4,0,8.0,Scala Studio,0,0,2017,5
+34,0,5,0,0,Sonu Mehrotra,129,0,0,Q4,0,8.0,Scala Studio,0,0,2017,5
+35,1,5,0,0,Prabhat Kashyap,11,20,0,Q1,0,8.0,Scala Studio,0,15,2018,60
+36,1,40,0,0,Sidharth Khattri,1,0,0,Q1,0,8.0,Scala Studio,0,0,2018,40
+37,1,15,0,0,Jasmine Kaur,31,0,0,Q1,0,8.0,Scala Studio,0,0,2018,15
+38,0,5,0,0,Sonu Mehrotra,129,0,0,Q1,0,8.0,Scala Studio,0,0,2018,5
+39,1,15,0,0,Sidharth Khattri,1,0,0,Q2,0,8.0,Scala Studio,0,0,2018,15
+40,1,5,0,0,Narayan Kumar,3,0,0,Q2,0,8.0,Scala Studio,0,0,2018,5
+41,1,5,0,0,Jasmine Kaur,31,0,0,Q2,0,8.0,Scala Studio,0,0,2018,5
+42,0,5,0,0,Sonu Mehrotra,129,0,0,Q2,0,8.0,Scala Studio,0,0,2018,5
+43,1,0,0,0,Prabhat Kashyap,11,80,0,Q3,0,8.0,Scala Studio,0,0,2018,160
+44,1,5,0,0,Piyush Rana,76,40,0,Q3,0,8.0,Scala Studio,0,0,2018,85
+45,1,0,0,0,Prabhat Kashyap,11,80,0,Q4,0,8.0,Scala Studio,0,0,2018,160
+46,1,5,0,0,Piyush Rana,76,40,0,Q4,0,8.0,Scala Studio,0,0,2018,85
+47,1,5,100,0,Prabhat Kashyap,11,0,0,Q1,0,8.0,Scala Studio,0,0,2019,105
+48,1,10,0,0,Jasmine Kaur,31,0,0,Q1,0,8.0,Scala Studio,0,0,2019,10
+49,0,5,0,0,Megha Jatana,16,0,0,Q1,0,8.0,Scala Studio,0,0,2019,5
+50,1,5,0,0,Piyush Rana,76,0,0,Q1,0,8.0,Scala Studio,0,0,2019,5
+51,1,5,0,0,Piyush Rana,76,20,0,Q2,0,8.0,Scala Studio,60,0,2019,165
+52,1,0,0,0,Sidharth Khattri,1,0,0,Q2,0,8.0,Scala Studio,15,0,2019,30
+53,1,15,0,0,Jasmine Kaur,31,0,0,Q2,0,8.0,Scala Studio,0,15,2019,30
+54,1,10,0,0,Prabhat Kashyap,11,0,0,Q2,0,8.0,Scala Studio,0,0,2019,10
+55,0,10,0,0,Jashan Goyal,74,0,0,Q2,0,8.0,Scala Studio,0,0,2019,10
+56,1,5,0,0,Piyush Rana,76,0,0,Q3,0,8.0,Scala Studio,90,0,2019,185
+57,1,0,0,0,Prabhat Kashyap,11,0,0,Q3,0,8.0,Scala Studio,60,15,2019,135
+58,1,5,0,0,Narayan Kumar,3,0,0,Q3,0,8.0,Scala Studio,60,0,2019,125
+59,1,0,0,0,Jasmine Kaur,31,0,0,Q3,0,8.0,Scala Studio,30,0,2019,60
+60,1,0,0,0,Sidharth Khattri,1,0,0,Q3,0,8.0,Scala Studio,15,0,2019,30
+61,1,0,0,0,Harshit Daga,52,0,0,Q3,0,8.0,Scala Studio,15,0,2019,30
+62,1,5,0,0,Piyush Rana,76,0,0,Q4,0,8.0,Scala Studio,90,0,2019,185
+63,1,0,0,0,Prabhat Kashyap,11,0,0,Q4,0,8.0,Scala Studio,60,15,2019,135
+64,1,5,0,0,Narayan Kumar,3,0,0,Q4,0,8.0,Scala Studio,60,0,2019,125
+65,1,0,0,0,Jasmine Kaur,31,0,0,Q4,0,8.0,Scala Studio,30,0,2019,60
+66,1,0,0,0,Sidharth Khattri,1,0,0,Q4,0,8.0,Scala Studio,15,0,2019,30
+67,1,0,0,0,Harshit Daga,52,0,0,Q4,0,8.0,Scala Studio,15,0,2019,30
+68,1,15,0,0,Shivraj Singh,45,20,0,Q1,0,8.0,Scala Studio,15,0,2020,85
+69,0,0,0,0,Megha Jatana,16,20,0,Q1,0,8.0,Scala Studio,15,0,2020,70
+70,1,0,0,0,Yamini Bansal,116,0,0,Q1,0,8.0,Scala Studio,15,0,2020,30
+71,0,5,0,0,Sanjana Aggarwal,50,0,0,Q1,0,8.0,Scala Studio,0,15,2020,20
+72,1,5,0,0,Narayan Kumar,3,0,0,Q1,0,8.0,Scala Studio,0,0,2020,5
+73,1,5,0,0,Jasmine Kaur,31,0,0,Q1,0,8.0,Scala Studio,0,0,2020,5
+74,1,5,0,0,Harshit Daga,52,0,0,Q1,0,8.0,Scala Studio,0,0,2020,5
+75,0,5,0,0,Sonu Mehrotra,129,0,0,Q1,0,8.0,Scala Studio,0,0,2020,5
+76,1,0,100,0,Piyush Rana,76,0,60,Q2,0,8.0,Scala Studio,0,0,2020,220
+77,1,45,0,0,Muskan Gupta,25,0,0,Q2,0,8.0,Scala Studio,60,0,2020,165
+78,0,30,0,0,Sanjana Aggarwal,50,20,0,Q2,0,8.0,Scala Studio,15,15,2020,115
+79,1,20,0,0,Mansi Babbar,102,0,0,Q2,0,8.0,Scala Studio,30,0,2020,80
+80,1,15,0,0,Shivraj Singh,45,0,0,Q2,0,8.0,Scala Studio,30,0,2020,75
+81,1,40,0,0,Muskan Gupta,25,0,90,Q3,0,8.0,Scala Studio,45,0,2020,310
+82,1,5,0,100,Piyush Rana,76,0,0,Q3,0,8.0,Scala Studio,45,0,2020,195
+83,1,20,0,0,Yamini Bansal,116,20,0,Q3,0,8.0,Scala Studio,15,0,2020,90
+84,1,5,0,0,Shivraj Singh,45,0,0,Q3,0,8.0,Scala Studio,30,0,2020,65
+85,1,20,0,0,Mansi Babbar,102,0,0,Q3,0,8.0,Scala Studio,15,0,2020,50
+86,1,40,0,0,Muskan Gupta,25,0,90,Q4,0,8.0,Scala Studio,45,0,2020,310
+87,1,5,0,100,Piyush Rana,76,0,0,Q4,0,8.0,Scala Studio,45,0,2020,195
+88,1,20,0,0,Yamini Bansal,116,20,0,Q4,0,8.0,Scala Studio,15,0,2020,90
+89,1,5,0,0,Shivraj Singh,45,0,0,Q4,0,8.0,Scala Studio,30,0,2020,65
+90,1,20,0,0,Mansi Babbar,102,0,0,Q4,0,8.0,Scala Studio,15,0,2020,50
+91,1,5,0,0,Mansi Babbar,102,80,0,Q1,0,8.0,Scala Studio,30,0,2021,225
+92,1,5,0,0,Muskan Gupta,25,20,0,Q1,0,8.0,Scala Studio,0,15,2021,60
+93,0,10,0,0,Sanjana Aggarwal,50,0,0,Q1,0,8.0,Scala Studio,15,15,2021,55
+94,1,15,0,0,Harshit Daga,52,0,0,Q1,0,8.0,Scala Studio,15,0,2021,45
+95,1,5,0,0,Yamini Bansal,116,20,0,Q1,0,8.0,Scala Studio,0,0,2021,45
+96,1,0,0,0,Muskan Gupta,25,40,60,Q2,0,8.0,Scala Studio,15,0,2021,230
+97,1,15,0,0,Mansi Babbar,102,40,0,Q2,0,8.0,Scala Studio,15,15,2021,140
+98,1,45,0,0,Nitin Saxena,211,0,30,Q2,0,8.0,Scala Studio,0,0,2021,105
+99,1,35,0,0,Aman Verma,151,0,0,Q2,0,8.0,Scala Studio,30,0,2021,95
+100,1,10,0,0,Meenakshi Goyal,194,0,0,Q2,0,8.0,Scala Studio,30,0,2021,70
+101,1,60,0,0,Nitin Saxena,211,20,0,Q3,0,8.0,Scala Studio,60,15,2021,235
+102,1,60,0,0,Aman Verma,151,20,30,Q3,0,8.0,Scala Studio,30,0,2021,220
+103,1,35,0,0,Meenakshi Goyal,194,20,0,Q3,0,8.0,Scala Studio,60,0,2021,195
+104,1,15,0,0,Bhavya Verma,162,20,0,Q3,0,8.0,Scala Studio,45,0,2021,145
+105,1,10,0,0,Kuldeepak Gupta,188,20,0,Q3,0,8.0,Scala Studio,45,0,2021,140
+106,1,60,0,0,Nitin Saxena,211,20,0,Q4,0,8.0,Scala Studio,60,15,2021,235
+107,1,60,0,0,Aman Verma,151,20,30,Q4,0,8.0,Scala Studio,30,0,2021,220
+108,1,35,0,0,Meenakshi Goyal,194,20,0,Q4,0,8.0,Scala Studio,60,0,2021,195
+109,1,15,0,0,Bhavya Verma,162,20,0,Q4,0,8.0,Scala Studio,45,0,2021,145
+110,1,10,0,0,Kuldeepak Gupta,188,20,0,Q4,0,8.0,Scala Studio,45,0,2021,140
+111,1,5,0,0,Prateek Gupta,222,0,540,Q1,0,8.0,Scala Studio,0,0,2022,1085
+112,1,5,0,0,Kuldeepak Gupta,188,60,60,Q1,0,8.0,Scala Studio,45,0,2022,335
+113,1,5,0,0,Purva Agrawal,227,20,30,Q1,0,8.0,Scala Studio,30,0,2022,165
+114,1,5,0,0,Raviyanshu Pratap Singh,233,0,30,Q1,0,8.0,Scala Studio,0,0,2022,65
+115,1,0,0,0,Rahul Khowal,230,0,30,Q1,0,8.0,Scala Studio,0,0,2022,60
+116,1,5,0,0,Manish Kumar Mishra,2,0,0,Q2,0,11.0,Java Studio,0,0,2015,5
+117,1,5,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,0,0,2015,5
+118,1,5,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,0,0,2015,5
+119,1,10,0,0,Manish Kumar Mishra,2,0,0,Q1,0,11.0,Java Studio,0,0,2016,10
+120,1,10,0,0,Manish Kumar Mishra,2,0,0,Q2,0,11.0,Java Studio,0,0,2016,10
+121,1,15,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,0,0,2016,15
+122,1,15,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,0,0,2016,15
+123,1,5,0,0,Manish Kumar Mishra,2,0,0,Q1,0,11.0,Java Studio,0,0,2017,5
+124,1,5,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,0,0,2017,5
+125,1,5,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,0,0,2017,5
+126,1,10,0,0,Manish Kumar Mishra,2,0,0,Q2,0,11.0,Java Studio,0,0,2018,10
+127,1,15,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,0,0,2018,15
+128,1,15,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,0,0,2018,15
+129,1,10,0,0,Manish Kumar Mishra,2,40,0,Q1,0,11.0,Java Studio,0,0,2019,90
+130,1,0,0,0,Munander Singh,51,0,0,Q1,0,11.0,Java Studio,30,0,2019,60
+131,1,5,0,0,Manish Kumar Mishra,2,0,0,Q2,0,11.0,Java Studio,0,0,2019,5
+132,1,0,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,30,15,2019,75
+133,1,0,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,30,15,2019,75
+134,1,40,0,0,Munander Singh,51,20,0,Q1,0,11.0,Java Studio,30,15,2020,155
+135,1,25,0,0,kundan kumar,30,0,0,Q1,0,11.0,Java Studio,45,0,2020,115
+136,1,5,0,0,Manish Kumar Mishra,2,20,0,Q1,0,11.0,Java Studio,0,0,2020,45
+137,1,5,0,0,Lokesh Aggarwal,59,0,0,Q1,0,11.0,Java Studio,15,0,2020,35
+138,1,30,0,0,Upanshu Chaudhary,24,20,0,Q2,0,11.0,Java Studio,30,0,2020,130
+139,1,35,0,0,kundan kumar,30,0,0,Q2,0,11.0,Java Studio,30,0,2020,95
+140,1,20,0,0,Lokesh Aggarwal,59,0,0,Q2,0,11.0,Java Studio,30,0,2020,80
+141,1,15,0,0,Addi,106,20,0,Q2,0,11.0,Java Studio,0,0,2020,55
+142,1,15,0,0,Munander Singh,51,0,0,Q2,0,11.0,Java Studio,15,0,2020,45
+143,1,15,0,0,Lokesh Aggarwal,59,0,0,Q3,0,11.0,Java Studio,45,15,2020,120
+144,1,45,0,0,kundan kumar,30,0,0,Q3,0,11.0,Java Studio,30,0,2020,105
+145,1,0,0,0,Manish Kumar Mishra,2,20,0,Q3,0,11.0,Java Studio,0,0,2020,40
+146,1,20,0,0,Addi,106,0,0,Q3,0,11.0,Java Studio,0,0,2020,20
+147,1,15,0,0,Upanshu Chaudhary,24,0,0,Q3,0,11.0,Java Studio,0,0,2020,15
+148,1,15,0,0,Lokesh Aggarwal,59,0,0,Q4,0,11.0,Java Studio,45,15,2020,120
+149,1,45,0,0,kundan kumar,30,0,0,Q4,0,11.0,Java Studio,30,0,2020,105
+150,1,0,0,0,Manish Kumar Mishra,2,20,0,Q4,0,11.0,Java Studio,0,0,2020,40
+151,1,20,0,0,Addi,106,0,0,Q4,0,11.0,Java Studio,0,0,2020,20
+152,1,15,0,0,Upanshu Chaudhary,24,0,0,Q4,0,11.0,Java Studio,0,0,2020,15
+153,1,20,0,0,Upanshu Chaudhary,24,0,0,Q1,0,11.0,Java Studio,15,0,2021,50
+154,1,0,0,0,Jitendra Kumar Singh,123,20,0,Q1,0,11.0,Java Studio,0,0,2021,40
+155,1,0,0,0,Lokesh Aggarwal,59,0,0,Q1,0,11.0,Java Studio,15,0,2021,30
+156,1,5,0,0,kundan kumar,30,0,0,Q1,0,11.0,Java Studio,0,0,2021,5
+157,1,5,0,0,Munander Singh,51,0,0,Q1,0,11.0,Java Studio,0,0,2021,5
+158,1,5,0,0,Agnibhas Chattopadhyay,144,0,0,Q1,0,11.0,Java Studio,0,0,2021,5
+159,1,10,0,0,Lokesh Aggarwal,59,0,30,Q2,0,11.0,Java Studio,15,0,2021,100
+160,1,15,0,0,Sumit Raj,257,20,0,Q2,0,11.0,Java Studio,0,0,2021,55
+161,1,15,0,0,Upanshu Chaudhary,24,0,0,Q2,0,11.0,Java Studio,15,0,2021,45
+162,1,5,0,0,Gaurav Kumar,170,20,0,Q2,0,11.0,Java Studio,0,0,2021,45
+163,1,5,0,0,Mithilesh Singh,196,20,0,Q2,0,11.0,Java Studio,0,0,2021,45
+164,1,5,0,0,Mithilesh Singh,196,20,0,Q3,0,11.0,Java Studio,0,15,2021,60
+165,1,5,0,0,ANURADHA KUMARI,156,20,0,Q3,0,11.0,Java Studio,0,0,2021,45
+166,1,0,0,0,Manish Kumar Mishra,2,0,0,Q3,0,11.0,Java Studio,15,0,2021,30
+167,1,0,0,0,kundan kumar,30,0,0,Q3,0,11.0,Java Studio,15,0,2021,30
+168,1,5,0,0,Abhijna Saksena,141,0,0,Q3,0,11.0,Java Studio,0,15,2021,20
+169,1,5,0,0,Mithilesh Singh,196,20,0,Q4,0,11.0,Java Studio,0,15,2021,60
+170,1,5,0,0,ANURADHA KUMARI,156,20,0,Q4,0,11.0,Java Studio,0,0,2021,45
+171,1,0,0,0,Manish Kumar Mishra,2,0,0,Q4,0,11.0,Java Studio,15,0,2021,30
+172,1,0,0,0,kundan kumar,30,0,0,Q4,0,11.0,Java Studio,15,0,2021,30
+173,1,5,0,0,Abhijna Saksena,141,0,0,Q4,0,11.0,Java Studio,0,15,2021,20
+174,1,10,0,0,ANURADHA KUMARI,156,40,0,Q1,0,11.0,Java Studio,0,0,2022,90
+175,1,10,0,0,Kuldeep Swaroop,187,20,0,Q1,0,11.0,Java Studio,0,0,2022,50
+176,1,10,0,0,Sakshi Mittal,243,20,0,Q1,0,11.0,Java Studio,0,0,2022,50
+177,1,10,0,0,prakhar.rastogi,355,20,0,Q1,0,11.0,Java Studio,0,0,2022,50
+178,1,0,0,0,Romit Saxena,239,0,0,Q1,0,11.0,Java Studio,15,0,2022,30
+179,1,5,0,0,Gaurav Kumar Shukla,5,0,0,Q1,0,17.0,Testing Automation Studio,0,0,2016,5
+180,1,10,0,0,Gaurav Kumar Shukla,5,20,0,Q1,0,17.0,Testing Automation Studio,0,0,2017,50
+181,1,0,0,0,Gaurav Kumar Shukla,5,40,0,Q1,0,17.0,Testing Automation Studio,0,0,2018,80
+182,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q2,0,17.0,Testing Automation Studio,0,0,2018,40
+183,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q3,0,17.0,Testing Automation Studio,0,0,2018,40
+184,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q4,0,17.0,Testing Automation Studio,0,0,2018,40
+185,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q2,0,17.0,Testing Automation Studio,0,0,2019,40
+186,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q3,0,17.0,Testing Automation Studio,0,0,2019,40
+187,1,0,0,0,Gaurav Kumar Shukla,5,20,0,Q4,0,17.0,Testing Automation Studio,0,0,2019,40
+188,1,10,0,0,Gaurav Kumar Shukla,5,20,0,Q1,0,17.0,Testing Automation Studio,0,0,2020,50
+189,1,0,0,0,Sparsh Bhardwaj,118,0,0,Q1,0,17.0,Testing Automation Studio,15,0,2020,30
+190,1,15,0,0,Ankur Thakur,53,0,0,Q1,0,17.0,Testing Automation Studio,0,0,2020,15
+191,1,30,0,0,Ankur Thakur,53,0,0,Q2,0,17.0,Testing Automation Studio,0,0,2020,30
+192,1,20,0,0,Gaurav Kumar Shukla,5,0,0,Q2,0,17.0,Testing Automation Studio,0,0,2020,20
+193,1,15,0,0,Aditi Varshney,122,0,0,Q2,0,17.0,Testing Automation Studio,0,0,2020,15
+194,1,5,0,0,Sparsh Bhardwaj,118,0,0,Q2,0,17.0,Testing Automation Studio,0,0,2020,5
+195,1,25,0,0,Aditi Varshney,122,0,0,Q3,0,17.0,Testing Automation Studio,15,0,2020,55
+196,1,0,0,0,Ankur Thakur,53,0,0,Q3,0,17.0,Testing Automation Studio,15,0,2020,30
+197,1,15,0,0,Sparsh Bhardwaj,118,0,0,Q3,0,17.0,Testing Automation Studio,0,0,2020,15
+198,1,5,0,0,Gaurav Kumar Shukla,5,0,0,Q3,0,17.0,Testing Automation Studio,0,0,2020,5
+199,1,25,0,0,Aditi Varshney,122,0,0,Q4,0,17.0,Testing Automation Studio,15,0,2020,55
+200,1,0,0,0,Ankur Thakur,53,0,0,Q4,0,17.0,Testing Automation Studio,15,0,2020,30
+201,1,15,0,0,Sparsh Bhardwaj,118,0,0,Q4,0,17.0,Testing Automation Studio,0,0,2020,15
+202,1,5,0,0,Gaurav Kumar Shukla,5,0,0,Q4,0,17.0,Testing Automation Studio,0,0,2020,5
+203,1,25,0,0,Ankur Thakur,53,20,0,Q1,0,17.0,Testing Automation Studio,30,0,2021,125
+204,1,30,0,0,Sparsh Bhardwaj,118,0,0,Q1,0,17.0,Testing Automation Studio,30,0,2021,90
+205,1,5,0,0,Gaurav Kumar Shukla,5,20,0,Q1,0,17.0,Testing Automation Studio,0,0,2021,45
+206,1,15,0,0,Prajjawal Kansal,218,0,0,Q1,0,17.0,Testing Automation Studio,0,0,2021,15
+207,1,5,0,0,Aditi Varshney,122,0,0,Q1,0,17.0,Testing Automation Studio,0,0,2021,5
+208,1,35,0,0,Sparsh Bhardwaj,118,20,0,Q2,0,17.0,Testing Automation Studio,60,0,2021,195
+209,1,15,0,0,Prajjawal Kansal,218,0,0,Q2,0,17.0,Testing Automation Studio,90,0,2021,195
+210,1,5,0,0,Ankur Thakur,53,20,0,Q2,0,17.0,Testing Automation Studio,30,0,2021,105
+211,1,5,0,0,Prajjawal Kansal,218,0,0,Q3,0,17.0,Testing Automation Studio,30,0,2021,65
+212,1,15,0,0,Sushma Nayak,258,0,0,Q3,0,17.0,Testing Automation Studio,0,0,2021,15
+213,1,5,0,0,Akash Kale,148,0,0,Q3,0,17.0,Testing Automation Studio,0,0,2021,5
+214,1,5,0,0,Prajjawal Kansal,218,0,0,Q4,0,17.0,Testing Automation Studio,30,0,2021,65
+215,1,15,0,0,Sushma Nayak,258,0,0,Q4,0,17.0,Testing Automation Studio,0,0,2021,15
+216,1,5,0,0,Akash Kale,148,0,0,Q4,0,17.0,Testing Automation Studio,0,0,2021,5
+217,1,25,0,0,Sparsh Bhardwaj,118,0,0,Q1,0,17.0,Testing Automation Studio,30,0,2022,85
+218,1,0,0,0,Sujeet Kumar Srivastava,382,0,0,Q1,0,17.0,Testing Automation Studio,30,0,2022,60
+219,1,15,0,0,Sushma Nayak,258,20,0,Q1,0,17.0,Testing Automation Studio,0,0,2022,55
+220,1,5,0,0,Gargi Sanadhya,168,20,0,Q1,0,17.0,Testing Automation Studio,0,0,2022,45
+221,1,10,0,0,Prajjawal Kansal,218,0,0,Q1,0,17.0,Testing Automation Studio,15,0,2022,40
+222,1,15,0,0,Yatharth Sharma,61,0,0,Q1,0,4.0,DevOps Studio,0,0,2019,15
+223,0,0,0,0,Azmat Hasan,15,20,0,Q2,0,4.0,DevOps Studio,15,0,2019,70
+224,1,5,0,0,Yatharth Sharma,61,20,0,Q2,0,4.0,DevOps Studio,0,0,2019,45
+225,0,25,0,0,Azmat Hasan,15,20,0,Q3,0,4.0,DevOps Studio,15,0,2019,95
+226,1,10,0,0,Yatharth Sharma,61,0,0,Q3,0,4.0,DevOps Studio,0,0,2019,10
+227,0,25,0,0,Azmat Hasan,15,20,0,Q4,0,4.0,DevOps Studio,15,0,2019,95
+228,1,10,0,0,Yatharth Sharma,61,0,0,Q4,0,4.0,DevOps Studio,0,0,2019,10
+229,0,15,0,0,Azmat Hasan,15,20,0,Q1,0,4.0,DevOps Studio,30,0,2020,115
+230,1,10,0,0,Yatharth Sharma,61,0,30,Q1,0,4.0,DevOps Studio,0,0,2020,70
+231,0,20,0,0,Etash,44,0,0,Q1,0,4.0,DevOps Studio,0,0,2020,20
+232,1,5,0,0,Mukesh Yadav,43,0,0,Q1,0,4.0,DevOps Studio,0,0,2020,5
+233,1,5,0,0,Manas Kashyap,57,0,0,Q1,0,4.0,DevOps Studio,0,0,2020,5
+234,1,40,0,0,Mukesh Yadav,43,0,0,Q2,0,4.0,DevOps Studio,15,0,2020,70
+235,0,20,0,0,Azmat Hasan,15,0,0,Q2,0,4.0,DevOps Studio,15,15,2020,65
+236,1,25,0,0,Yatharth Sharma,61,20,0,Q2,0,4.0,DevOps Studio,0,0,2020,65
+237,0,30,0,0,Etash,44,0,0,Q2,0,4.0,DevOps Studio,0,15,2020,45
+238,1,10,0,0,Sakshi Gawande,68,0,0,Q2,0,4.0,DevOps Studio,15,0,2020,40
+239,0,0,0,0,Etash,44,20,0,Q3,0,4.0,DevOps Studio,30,0,2020,100
+240,1,5,0,0,Manas Kashyap,57,0,30,Q3,0,4.0,DevOps Studio,0,0,2020,65
+241,1,35,0,0,Sakshi Gawande,68,0,0,Q3,0,4.0,DevOps Studio,15,0,2020,65
+242,0,15,0,0,Shivani Mehrotra,115,20,0,Q3,0,4.0,DevOps Studio,0,0,2020,55
+243,1,15,0,0,Suraj Saini,117,20,0,Q3,0,4.0,DevOps Studio,0,0,2020,55
+244,0,0,0,0,Etash,44,20,0,Q4,0,4.0,DevOps Studio,30,0,2020,100
+245,1,5,0,0,Manas Kashyap,57,0,30,Q4,0,4.0,DevOps Studio,0,0,2020,65
+246,1,35,0,0,Sakshi Gawande,68,0,0,Q4,0,4.0,DevOps Studio,15,0,2020,65
+247,0,15,0,0,Shivani Mehrotra,115,20,0,Q4,0,4.0,DevOps Studio,0,0,2020,55
+248,1,15,0,0,Suraj Saini,117,20,0,Q4,0,4.0,DevOps Studio,0,0,2020,55
+249,1,0,0,0,Yatharth Sharma,61,40,30,Q1,0,4.0,DevOps Studio,0,0,2021,140
+250,0,0,0,0,Etash,44,20,0,Q1,0,4.0,DevOps Studio,15,0,2021,70
+251,1,0,0,0,Mukesh Yadav,43,20,0,Q1,0,4.0,DevOps Studio,0,0,2021,40
+252,1,10,0,0,Sakshi Gawande,68,0,0,Q1,0,4.0,DevOps Studio,15,0,2021,40
+253,1,0,0,0,Aamir Shahab,139,20,0,Q1,0,4.0,DevOps Studio,0,0,2021,40
+254,1,0,0,0,Kumar Pratik,189,20,0,Q1,0,4.0,DevOps Studio,0,0,2021,40
+255,1,10,0,0,Manas Kashyap,57,0,120,Q2,0,4.0,DevOps Studio,0,0,2021,250
+256,0,15,0,0,Azmat Hasan,15,20,0,Q2,0,4.0,DevOps Studio,60,15,2021,190
+257,1,5,0,0,Sakshi Gawande,68,20,0,Q2,0,4.0,DevOps Studio,15,15,2021,90
+258,1,10,0,0,Himanshu Chaudhary,179,0,0,Q2,0,4.0,DevOps Studio,15,0,2021,40
+259,0,5,0,0,Etash,44,0,0,Q2,0,4.0,DevOps Studio,15,0,2021,35
+260,1,0,0,0,Mohit Saxena,199,0,630,Q3,0,4.0,DevOps Studio,0,0,2021,1260
+261,1,20,0,0,Rahul Miglani,231,80,0,Q3,0,4.0,DevOps Studio,0,15,2021,195
+262,1,0,0,0,Manas Kashyap,57,20,60,Q3,0,4.0,DevOps Studio,15,0,2021,190
+263,0,0,0,0,Azmat Hasan,15,0,0,Q3,0,4.0,DevOps Studio,75,0,2021,150
+264,1,20,0,0,Nitin Kumar Mishra,212,0,30,Q3,0,4.0,DevOps Studio,15,0,2021,110
+265,1,0,0,0,Mohit Saxena,199,0,630,Q4,0,4.0,DevOps Studio,0,0,2021,1260
+266,1,20,0,0,Rahul Miglani,231,80,0,Q4,0,4.0,DevOps Studio,0,15,2021,195
+267,1,0,0,0,Manas Kashyap,57,20,60,Q4,0,4.0,DevOps Studio,15,0,2021,190
+268,0,0,0,0,Azmat Hasan,15,0,0,Q4,0,4.0,DevOps Studio,75,0,2021,150
+269,1,20,0,0,Nitin Kumar Mishra,212,0,30,Q4,0,4.0,DevOps Studio,15,0,2021,110
+270,1,35,0,0,Rishi Kumar Ray,323,0,1230,Q1,0,4.0,DevOps Studio,0,0,2022,2495
+271,1,75,0,0,naincy.kumari,330,0,570,Q1,0,4.0,DevOps Studio,0,0,2022,1215
+272,1,0,0,0,Mohit Saxena,199,120,300,Q1,0,4.0,DevOps Studio,150,0,2022,1140
+273,1,0,0,0,Vikas Vashisth,268,0,270,Q1,0,4.0,DevOps Studio,180,0,2022,900
+274,1,15,0,0,Dipayan Pramanik,308,20,270,Q1,0,4.0,DevOps Studio,45,0,2022,685
+275,0,10,0,0,Ruchika Dubey,19,0,0,Q2,0,15.0,Marketing,0,0,2018,10
+276,0,5,0,0,Ruchika Dubey,19,0,0,Q3,0,15.0,Marketing,0,0,2018,5
+277,0,5,0,0,Ruchika Dubey,19,0,0,Q4,0,15.0,Marketing,0,0,2018,5
+278,0,5,0,0,Ruchika Dubey,19,0,0,Q1,0,15.0,Marketing,0,0,2019,5
+279,0,10,0,0,Ruchika Dubey,19,0,0,Q2,0,15.0,Marketing,0,0,2019,10
+280,0,5,0,0,Ruchika Dubey,19,0,0,Q3,0,15.0,Marketing,0,0,2019,5
+281,0,5,0,0,Ruchika Dubey,19,0,0,Q4,0,15.0,Marketing,0,0,2019,5
+282,0,10,0,0,Ruchika Dubey,19,0,0,Q1,0,15.0,Marketing,0,0,2020,10
+283,0,25,0,0,Ruchika Dubey,19,0,0,Q2,0,15.0,Marketing,0,0,2020,25
+284,0,20,0,0,Ruchika Dubey,19,0,0,Q3,0,15.0,Marketing,0,0,2020,20
+285,0,20,0,0,Ruchika Dubey,19,0,0,Q4,0,15.0,Marketing,0,0,2020,20
+286,0,20,0,0,Ruchika Dubey,19,0,0,Q1,0,15.0,Marketing,0,0,2021,20
+287,0,10,0,0,Ruchika Dubey,19,0,0,Q2,0,15.0,Marketing,0,0,2021,10
+288,1,5,0,0,Diksha Yadav,111,0,0,Q2,0,15.0,Marketing,0,0,2021,5
+289,0,35,0,0,Ruchika Dubey,19,0,0,Q3,0,15.0,Marketing,0,0,2021,35
+290,0,35,0,0,Ruchika Dubey,19,0,0,Q4,0,15.0,Marketing,0,0,2021,35
+291,1,15,0,0,Himanshu Gupta,20,0,0,Q1,0,13.0,Lightbend CoE,0,0,2014,15
+292,1,55,0,0,Himanshu Gupta,20,0,0,Q2,0,13.0,Lightbend CoE,0,0,2014,55
+293,1,20,0,0,Himanshu Gupta,20,0,0,Q3,0,13.0,Lightbend CoE,0,0,2014,20
+294,1,20,0,0,Himanshu Gupta,20,0,0,Q4,0,13.0,Lightbend CoE,0,0,2014,20
+295,1,5,0,0,Himanshu Gupta,20,0,0,Q1,0,13.0,Lightbend CoE,0,0,2015,5
+296,1,10,0,0,Himanshu Gupta,20,0,0,Q2,0,13.0,Lightbend CoE,0,0,2015,10
+297,1,5,0,0,Himanshu Gupta,20,0,0,Q3,0,13.0,Lightbend CoE,0,0,2015,5
+298,1,5,0,0,Himanshu Gupta,20,0,0,Q4,0,13.0,Lightbend CoE,0,0,2015,5
+299,1,20,0,0,Himanshu Gupta,20,0,30,Q1,0,13.0,Lightbend CoE,0,0,2016,80
+300,1,10,0,0,Himanshu Gupta,20,0,0,Q2,0,13.0,Lightbend CoE,0,0,2016,10
+301,1,15,0,0,Himanshu Gupta,20,0,0,Q3,0,13.0,Lightbend CoE,0,0,2016,15
+302,1,15,0,0,Himanshu Gupta,20,0,0,Q4,0,13.0,Lightbend CoE,0,0,2016,15
+303,1,10,0,0,Himanshu Gupta,20,0,0,Q1,0,13.0,Lightbend CoE,0,0,2017,10
+304,1,15,0,0,Himanshu Gupta,20,0,0,Q2,0,13.0,Lightbend CoE,0,0,2017,15
+305,1,10,0,0,Himanshu Gupta,20,20,0,Q3,0,13.0,Lightbend CoE,0,0,2017,50
+306,1,10,0,0,Himanshu Gupta,20,20,0,Q4,0,13.0,Lightbend CoE,0,0,2017,50
+307,1,5,0,0,Himanshu Gupta,20,0,0,Q1,0,13.0,Lightbend CoE,0,0,2018,5
+308,1,20,0,0,Himanshu Gupta,20,20,0,Q2,0,13.0,Lightbend CoE,0,0,2018,60
+309,1,5,0,0,Himanshu Gupta,20,20,0,Q1,0,13.0,Lightbend CoE,0,0,2019,45
+310,1,10,0,0,Himanshu Gupta,20,0,0,Q2,0,13.0,Lightbend CoE,0,0,2019,10
+311,1,0,0,0,Himanshu Gupta,20,20,0,Q3,0,13.0,Lightbend CoE,90,0,2019,220
+312,1,0,0,0,Himanshu Gupta,20,20,0,Q4,0,13.0,Lightbend CoE,90,0,2019,220
+313,1,0,0,0,Himanshu Gupta,20,20,0,Q1,0,13.0,Lightbend CoE,0,0,2020,40
+314,1,40,0,0,Himanshu Gupta,20,20,0,Q2,0,13.0,Lightbend CoE,15,0,2020,110
+315,1,10,0,0,Himanshu Gupta,20,0,0,Q3,0,13.0,Lightbend CoE,0,0,2020,10
+316,1,10,0,0,Himanshu Gupta,20,0,0,Q4,0,13.0,Lightbend CoE,0,0,2020,10
+317,1,20,0,0,Himanshu Gupta,20,0,0,Q1,0,13.0,Lightbend CoE,0,0,2021,20
+318,1,0,0,0,Humera ahmad,182,0,0,Q2,0,13.0,Lightbend CoE,15,0,2021,30
+319,1,5,0,0,Ashish Chaudhary,159,0,0,Q2,0,13.0,Lightbend CoE,0,0,2021,5
+320,1,5,0,0,Utkarsh Upadhyay,262,0,0,Q2,0,13.0,Lightbend CoE,0,0,2021,5
+321,1,5,0,0,Utkarsh Upadhyay,262,0,0,Q3,0,13.0,Lightbend CoE,15,0,2021,35
+322,1,5,0,0,Ashish Chaudhary,159,0,0,Q3,0,13.0,Lightbend CoE,0,0,2021,5
+323,1,5,0,0,Utkarsh Upadhyay,262,0,0,Q4,0,13.0,Lightbend CoE,15,0,2021,35
+324,1,5,0,0,Ashish Chaudhary,159,0,0,Q4,0,13.0,Lightbend CoE,0,0,2021,5
+325,1,70,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2010,70
+326,1,95,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2010,95
+327,1,95,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2010,95
+328,1,55,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2011,55
+329,1,60,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2011,60
+330,1,35,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2011,35
+331,1,35,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2011,35
+332,1,20,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2012,20
+333,1,5,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2012,5
+334,1,35,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2012,35
+335,1,35,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2012,35
+336,1,25,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2013,25
+337,1,15,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2013,15
+338,1,15,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2013,15
+339,1,15,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2013,15
+340,1,25,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2014,25
+341,1,15,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2014,15
+342,1,5,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2014,5
+343,1,5,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2014,5
+344,1,5,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2015,5
+345,1,15,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2015,15
+346,1,15,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2015,15
+347,1,25,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2016,25
+348,1,15,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2016,15
+349,1,15,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2016,15
+350,1,15,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2016,15
+351,1,10,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2017,10
+352,1,5,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2017,5
+353,1,10,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2017,10
+354,1,10,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2017,10
+355,1,5,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2018,5
+356,1,5,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2018,5
+357,1,5,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2018,5
+358,1,5,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2018,5
+359,1,35,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2019,35
+360,1,15,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,15,0,2019,45
+361,1,5,0,0,Ram Indukuri,63,0,0,Q2,0,14.0,Management,0,0,2019,5
+362,1,5,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,300,0,2019,605
+363,1,5,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,300,0,2019,605
+364,1,10,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2020,10
+365,1,5,0,0,Ram Indukuri,63,0,0,Q1,0,14.0,Management,0,0,2020,5
+366,1,15,0,0,Ram Indukuri,63,0,0,Q2,0,14.0,Management,0,0,2020,15
+367,1,5,0,0,Vikas Hazrati,21,0,0,Q2,0,14.0,Management,0,0,2020,5
+368,1,5,0,0,Vikas Hazrati,21,0,0,Q3,0,14.0,Management,0,0,2020,5
+369,1,5,0,0,Vikas Hazrati,21,0,0,Q4,0,14.0,Management,0,0,2020,5
+370,1,5,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2021,5
+371,1,5,0,0,Vikas Hazrati,21,0,0,Q1,0,14.0,Management,0,0,2022,5
+372,1,5,0,0,Swantika Gupta,34,0,0,Q1,0,3.0,AI/ML Studio,0,0,2020,5
+373,1,25,0,0,Swantika Gupta,34,0,0,Q2,0,3.0,AI/ML Studio,30,0,2020,85
+374,1,10,0,0,Peter Haig Boyajian,130,0,0,Q2,0,3.0,AI/ML Studio,0,0,2020,10
+375,1,5,0,0,Sam M Woodruff,131,0,0,Q2,0,3.0,AI/ML Studio,0,0,2020,5
+376,1,20,0,0,Swantika Gupta,34,60,0,Q3,0,3.0,AI/ML Studio,15,0,2020,170
+377,1,20,0,0,Swantika Gupta,34,60,0,Q4,0,3.0,AI/ML Studio,15,0,2020,170
+378,1,5,0,0,Swantika Gupta,34,0,0,Q1,0,3.0,AI/ML Studio,15,0,2021,35
+379,1,5,0,0,Pranay Rajput,219,20,0,Q2,0,3.0,AI/ML Studio,15,0,2021,75
+380,1,10,0,0,Rohit Jagati,238,0,0,Q2,0,3.0,AI/ML Studio,0,0,2021,10
+381,1,5,0,0,Swantika Gupta,34,0,0,Q2,0,3.0,AI/ML Studio,0,0,2021,5
+382,1,5,0,0,DURGESH GUPTA,166,0,0,Q2,0,3.0,AI/ML Studio,0,0,2021,5
+383,1,5,0,0,Praanav Bhowmik,216,0,0,Q2,0,3.0,AI/ML Studio,0,0,2021,5
+384,1,5,0,0,Tanishka Garg,260,0,0,Q2,0,3.0,AI/ML Studio,0,0,2021,5
+385,1,15,0,0,Tanishka Garg,260,0,60,Q3,0,3.0,AI/ML Studio,15,0,2021,165
+386,1,0,0,0,Pranay Rajput,219,0,0,Q3,0,3.0,AI/ML Studio,30,0,2021,60
+387,1,10,0,0,DURGESH GUPTA,166,0,0,Q3,0,3.0,AI/ML Studio,15,0,2021,40
+388,1,10,0,0,Praanav Bhowmik,216,0,0,Q3,0,3.0,AI/ML Studio,15,0,2021,40
+389,1,0,0,0,Mayura Sunil Zadane,193,0,0,Q3,0,3.0,AI/ML Studio,15,0,2021,30
+390,1,15,0,0,Tanishka Garg,260,0,60,Q4,0,3.0,AI/ML Studio,15,0,2021,165
+391,1,0,0,0,Pranay Rajput,219,0,0,Q4,0,3.0,AI/ML Studio,30,0,2021,60
+392,1,10,0,0,DURGESH GUPTA,166,0,0,Q4,0,3.0,AI/ML Studio,15,0,2021,40
+393,1,10,0,0,Praanav Bhowmik,216,0,0,Q4,0,3.0,AI/ML Studio,15,0,2021,40
+394,1,0,0,0,Mayura Sunil Zadane,193,0,0,Q4,0,3.0,AI/ML Studio,15,0,2021,30
+395,1,15,0,0,Tanishka Garg,260,0,0,Q1,0,3.0,AI/ML Studio,30,0,2022,75
+396,1,5,0,0,DURGESH GUPTA,166,0,0,Q1,0,3.0,AI/ML Studio,0,0,2022,5
+397,1,5,0,0,Praanav Bhowmik,216,0,0,Q1,0,3.0,AI/ML Studio,0,0,2022,5
+398,1,5,0,0,Rohit Jagati,238,0,0,Q1,0,3.0,AI/ML Studio,0,0,2022,5
+399,0,40,0,0,Pawan Bisht,41,0,0,Q1,0,16.0,Rust Studio,0,0,2019,40
+400,0,10,0,0,Pawan Bisht,41,0,30,Q2,0,16.0,Rust Studio,30,0,2019,130
+401,0,25,0,0,Pawan Bisht,41,0,30,Q3,0,16.0,Rust Studio,180,0,2019,445
+402,0,25,0,0,Pawan Bisht,41,0,30,Q4,0,16.0,Rust Studio,180,0,2019,445
+403,0,0,0,0,Pawan Bisht,41,0,30,Q1,0,16.0,Rust Studio,0,0,2020,60
+404,0,15,100,0,Pawan Bisht,41,0,30,Q2,0,16.0,Rust Studio,15,15,2020,220
+405,0,10,0,0,Pawan Bisht,41,0,90,Q3,0,16.0,Rust Studio,0,0,2020,190
+406,0,10,0,0,Pawan Bisht,41,0,90,Q4,0,16.0,Rust Studio,0,0,2020,190
+407,0,15,0,0,Pawan Bisht,41,0,60,Q1,0,16.0,Rust Studio,15,15,2021,180
+408,1,25,0,0,Ankit Mogha,154,0,0,Q2,0,16.0,Rust Studio,15,0,2021,55
+409,0,20,0,0,Pawan Bisht,41,0,0,Q2,0,16.0,Rust Studio,15,0,2021,50
+410,0,55,0,0,Ayushi Dwivedi,161,0,0,Q3,0,16.0,Rust Studio,30,0,2021,115
+411,0,0,0,0,Pawan Bisht,41,0,0,Q3,0,16.0,Rust Studio,30,0,2021,60
+412,1,30,0,0,Ankit Mogha,154,0,0,Q3,0,16.0,Rust Studio,0,0,2021,30
+413,0,55,0,0,Ayushi Dwivedi,161,0,0,Q4,0,16.0,Rust Studio,30,0,2021,115
+414,0,0,0,0,Pawan Bisht,41,0,0,Q4,0,16.0,Rust Studio,30,0,2021,60
+415,1,30,0,0,Ankit Mogha,154,0,0,Q4,0,16.0,Rust Studio,0,0,2021,30
+416,1,5,0,0,Ankit Mogha,154,0,0,Q1,0,16.0,Rust Studio,0,0,2022,5
+417,1,10,0,0,Bhavya Aggarwal,62,0,0,Q2,0,5.0,Engineering Operations,0,0,2016,10
+418,1,0,0,0,Bhavya Aggarwal,62,40,0,Q1,0,5.0,Engineering Operations,0,0,2018,80
+419,1,5,0,0,Bhavya Aggarwal,62,0,0,Q1,0,5.0,Engineering Operations,0,0,2019,5
+420,1,5,0,0,Bhavya Aggarwal,62,0,0,Q2,0,5.0,Engineering Operations,0,0,2019,5
+421,1,0,0,0,Bhavya Aggarwal,62,20,0,Q3,0,5.0,Engineering Operations,0,0,2019,40
+422,1,0,0,0,Bhavya Aggarwal,62,20,0,Q4,0,5.0,Engineering Operations,0,0,2019,40
+423,1,5,0,0,Bhavya Aggarwal,62,0,0,Q1,0,5.0,Engineering Operations,0,0,2020,5
+424,1,5,0,0,Bhavya Aggarwal,62,0,0,Q1,0,5.0,Engineering Operations,0,15,2021,20
+425,1,0,0,100,Bhavya Aggarwal,62,0,30,Q1,50,5.0,Engineering Operations,0,0,2022,210
+426,1,10,0,0,Shubhrank Rastogi,87,0,0,Q1,0,7.0,Frontend Studio,0,0,2019,10
+427,1,0,0,0,Shubhrank Rastogi,87,20,0,Q2,0,7.0,Frontend Studio,0,0,2019,40
+428,1,0,0,0,Shubhrank Rastogi,87,20,0,Q3,0,7.0,Frontend Studio,0,0,2019,40
+429,1,0,0,0,Shubhrank Rastogi,87,20,0,Q4,0,7.0,Frontend Studio,0,0,2019,40
+430,1,15,0,0,Umang Goyal,112,0,0,Q2,0,7.0,Frontend Studio,30,0,2020,75
+431,0,15,0,0,Kartik Tiwari,114,0,0,Q2,0,7.0,Frontend Studio,0,0,2020,15
+432,1,10,0,0,Umang Goyal,112,0,0,Q3,0,7.0,Frontend Studio,15,0,2020,40
+433,1,25,0,0,Shubhrank Rastogi,87,0,0,Q3,0,7.0,Frontend Studio,0,0,2020,25
+434,1,10,0,0,Umang Goyal,112,0,0,Q4,0,7.0,Frontend Studio,15,0,2020,40
+435,1,25,0,0,Shubhrank Rastogi,87,0,0,Q4,0,7.0,Frontend Studio,0,0,2020,25
+436,1,5,0,0,Shubhrank Rastogi,87,20,0,Q2,0,7.0,Frontend Studio,0,0,2021,45
+437,1,15,0,0,Alka Vats,150,0,0,Q2,0,7.0,Frontend Studio,0,0,2021,15
+438,1,10,0,0,Kiran Jeet kaur,186,0,0,Q2,0,7.0,Frontend Studio,0,0,2021,10
+439,1,5,0,0,Umang Goyal,112,0,0,Q2,0,7.0,Frontend Studio,0,0,2021,5
+440,1,5,0,0,Aanchal Agarwal,140,0,0,Q2,0,7.0,Frontend Studio,0,0,2021,5
+441,1,50,0,0,Alka Vats,150,20,0,Q3,0,7.0,Frontend Studio,150,0,2021,390
+442,1,0,0,0,Umang Goyal,112,0,0,Q3,0,7.0,Frontend Studio,60,0,2021,120
+443,1,0,0,0,Niraj Kumar Sharma,208,40,0,Q3,0,7.0,Frontend Studio,0,15,2021,95
+444,1,5,0,0,Aanchal Agarwal,140,20,0,Q3,0,7.0,Frontend Studio,15,0,2021,75
+445,1,15,0,0,Kiran Jeet kaur,186,0,0,Q3,0,7.0,Frontend Studio,15,0,2021,45
+446,1,50,0,0,Alka Vats,150,20,0,Q4,0,7.0,Frontend Studio,150,0,2021,390
+447,1,0,0,0,Umang Goyal,112,0,0,Q4,0,7.0,Frontend Studio,60,0,2021,120
+448,1,0,0,0,Niraj Kumar Sharma,208,40,0,Q4,0,7.0,Frontend Studio,0,15,2021,95
+449,1,5,0,0,Aanchal Agarwal,140,20,0,Q4,0,7.0,Frontend Studio,15,0,2021,75
+450,1,15,0,0,Kiran Jeet kaur,186,0,0,Q4,0,7.0,Frontend Studio,15,0,2021,45
+451,1,0,0,200,Kiran Jeet kaur,186,20,60,Q1,0,7.0,Frontend Studio,0,0,2022,360
+452,1,0,100,100,Niraj Kumar Sharma,208,0,30,Q1,0,7.0,Frontend Studio,0,0,2022,260
+453,1,0,0,0,Alka Vats,150,20,60,Q1,0,7.0,Frontend Studio,30,0,2022,220
+454,1,0,0,0,Amar Prakash  Chaubey,395,0,30,Q1,100,7.0,Frontend Studio,0,0,2022,160
+455,1,0,0,0,Piyush Agarwal,214,0,0,Q1,0,7.0,Frontend Studio,60,0,2022,120
+456,1,5,0,0,Atul Rawat,120,0,0,Q2,0,1.0,Account Management,0,0,2020,5
+457,1,0,0,300,test employee,415,0,180,Q1,150,1.0,Account Management,0,0,2022,810
+458,1,0,100,300,test studiohead,413,0,120,Q1,0,1.0,Account Management,0,0,2022,640
+459,1,0,200,0,Bhavya Aggarwal,397,0,30,Q1,50,1.0,Account Management,0,0,2022,310
+460,1,0,0,100,test admin,414,0,0,Q1,50,1.0,Account Management,0,0,2022,150
+461,1,5,0,0,Jony Mandal,185,20,0,Q2,0,12.0,Learning and Development,0,0,2021,45
+462,1,0,0,0,Gurpreet Kaur,173,40,0,Q3,0,12.0,Learning and Development,0,0,2021,80
+463,1,0,0,0,Gurpreet Kaur,173,40,0,Q4,0,12.0,Learning and Development,0,0,2021,80
+464,1,0,0,0,Pooja Chawla,215,20,0,Q2,0,2.0,Agile Studio,0,0,2021,40
+465,1,5,0,0,Pooja Chawla,215,0,0,Q3,0,2.0,Agile Studio,0,0,2021,5
+466,1,5,0,0,Prachi Singh,217,0,0,Q3,0,2.0,Agile Studio,0,0,2021,5
+467,1,5,0,0,Prince Agrahari,225,0,0,Q3,0,2.0,Agile Studio,0,0,2021,5
+468,1,5,0,0,Pooja Chawla,215,0,0,Q4,0,2.0,Agile Studio,0,0,2021,5
+469,1,5,0,0,Prachi Singh,217,0,0,Q4,0,2.0,Agile Studio,0,0,2021,5
+470,1,5,0,0,Prince Agrahari,225,0,0,Q4,0,2.0,Agile Studio,0,0,2021,5
+471,1,5,0,0,Pooja Chawla,215,0,0,Q1,0,2.0,Agile Studio,0,0,2022,5
+472,1,0,100,100,anirudh.chauhan,376,20,0,Q1,50,9.0,Interns,0,0,2022,290
+473,1,0,0,0,abhishek.singh,377,40,0,Q1,0,9.0,Interns,0,0,2022,80
+474,1,20,0,0,aasif.ali,328,0,0,Q1,0,9.0,Interns,0,0,2022,20
+475,1,10,0,0,akshit.kumar,335,0,0,Q1,0,9.0,Interns,0,0,2022,10
+476,1,10,0,0,chiranjeev.kumar,338,0,0,Q1,0,9.0,Interns,0,0,2022,10

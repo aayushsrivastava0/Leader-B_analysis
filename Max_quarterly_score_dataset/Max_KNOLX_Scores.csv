@@ -1,0 +1,231 @@
+,year,quarter,knolx_score,studio_name
+0,2014,Q1,0,Scala Studio
+1,2014,Q2,0,Scala Studio
+2,2014,Q3,0,Scala Studio
+3,2014,Q4,0,Scala Studio
+4,2015,Q2,0,Scala Studio
+5,2015,Q3,0,Scala Studio
+6,2015,Q4,0,Scala Studio
+7,2016,Q1,0,Scala Studio
+9,2016,Q2,0,Scala Studio
+13,2016,Q3,0,Scala Studio
+15,2016,Q4,0,Scala Studio
+17,2017,Q1,0,Scala Studio
+21,2017,Q2,20,Scala Studio
+22,2017,Q3,20,Scala Studio
+24,2017,Q4,20,Scala Studio
+26,2018,Q1,20,Scala Studio
+27,2018,Q2,0,Scala Studio
+31,2018,Q3,80,Scala Studio
+32,2018,Q4,80,Scala Studio
+33,2019,Q1,0,Scala Studio
+37,2019,Q2,20,Scala Studio
+38,2019,Q3,0,Scala Studio
+44,2019,Q4,0,Scala Studio
+50,2020,Q1,20,Scala Studio
+52,2020,Q2,20,Scala Studio
+53,2020,Q3,20,Scala Studio
+54,2020,Q4,20,Scala Studio
+55,2021,Q1,80,Scala Studio
+56,2021,Q2,40,Scala Studio
+58,2021,Q3,20,Scala Studio
+63,2021,Q4,20,Scala Studio
+68,2022,Q1,60,Scala Studio
+69,2015,Q2,0,Java Studio
+70,2015,Q3,0,Java Studio
+71,2015,Q4,0,Java Studio
+72,2016,Q1,0,Java Studio
+73,2016,Q2,0,Java Studio
+74,2016,Q3,0,Java Studio
+75,2016,Q4,0,Java Studio
+76,2017,Q1,0,Java Studio
+77,2017,Q3,0,Java Studio
+78,2017,Q4,0,Java Studio
+79,2018,Q2,0,Java Studio
+80,2018,Q3,0,Java Studio
+81,2018,Q4,0,Java Studio
+82,2019,Q1,40,Java Studio
+83,2019,Q2,0,Java Studio
+84,2019,Q3,0,Java Studio
+85,2019,Q4,0,Java Studio
+86,2020,Q1,20,Java Studio
+88,2020,Q2,20,Java Studio
+90,2020,Q3,20,Java Studio
+91,2020,Q4,20,Java Studio
+92,2021,Q1,20,Java Studio
+93,2021,Q2,20,Java Studio
+96,2021,Q3,20,Java Studio
+98,2021,Q4,20,Java Studio
+100,2022,Q1,40,Java Studio
+101,2016,Q1,0,Testing Automation Studio
+102,2017,Q1,20,Testing Automation Studio
+103,2018,Q1,40,Testing Automation Studio
+104,2018,Q2,20,Testing Automation Studio
+105,2018,Q3,20,Testing Automation Studio
+106,2018,Q4,20,Testing Automation Studio
+107,2019,Q2,20,Testing Automation Studio
+108,2019,Q3,20,Testing Automation Studio
+109,2019,Q4,20,Testing Automation Studio
+110,2020,Q1,20,Testing Automation Studio
+111,2020,Q2,0,Testing Automation Studio
+115,2020,Q3,0,Testing Automation Studio
+119,2020,Q4,0,Testing Automation Studio
+123,2021,Q1,20,Testing Automation Studio
+125,2021,Q2,20,Testing Automation Studio
+127,2021,Q3,0,Testing Automation Studio
+130,2021,Q4,0,Testing Automation Studio
+133,2022,Q1,20,Testing Automation Studio
+135,2019,Q1,0,DevOps Studio
+136,2019,Q2,20,DevOps Studio
+138,2019,Q3,20,DevOps Studio
+139,2019,Q4,20,DevOps Studio
+140,2020,Q1,20,DevOps Studio
+141,2020,Q2,20,DevOps Studio
+142,2020,Q3,20,DevOps Studio
+145,2020,Q4,20,DevOps Studio
+148,2021,Q1,40,DevOps Studio
+149,2021,Q2,20,DevOps Studio
+151,2021,Q3,80,DevOps Studio
+152,2021,Q4,80,DevOps Studio
+153,2022,Q1,120,DevOps Studio
+154,2018,Q2,0,Marketing
+155,2018,Q3,0,Marketing
+156,2018,Q4,0,Marketing
+157,2019,Q1,0,Marketing
+158,2019,Q2,0,Marketing
+159,2019,Q3,0,Marketing
+160,2019,Q4,0,Marketing
+161,2020,Q1,0,Marketing
+162,2020,Q2,0,Marketing
+163,2020,Q3,0,Marketing
+164,2020,Q4,0,Marketing
+165,2021,Q1,0,Marketing
+166,2021,Q2,0,Marketing
+168,2021,Q3,0,Marketing
+169,2021,Q4,0,Marketing
+170,2014,Q1,0,Lightbend CoE
+171,2014,Q2,0,Lightbend CoE
+172,2014,Q3,0,Lightbend CoE
+173,2014,Q4,0,Lightbend CoE
+174,2015,Q1,0,Lightbend CoE
+175,2015,Q2,0,Lightbend CoE
+176,2015,Q3,0,Lightbend CoE
+177,2015,Q4,0,Lightbend CoE
+178,2016,Q1,0,Lightbend CoE
+179,2016,Q2,0,Lightbend CoE
+180,2016,Q3,0,Lightbend CoE
+181,2016,Q4,0,Lightbend CoE
+182,2017,Q1,0,Lightbend CoE
+183,2017,Q2,0,Lightbend CoE
+184,2017,Q3,20,Lightbend CoE
+185,2017,Q4,20,Lightbend CoE
+186,2018,Q1,0,Lightbend CoE
+187,2018,Q2,20,Lightbend CoE
+188,2019,Q1,20,Lightbend CoE
+189,2019,Q2,0,Lightbend CoE
+190,2019,Q3,20,Lightbend CoE
+191,2019,Q4,20,Lightbend CoE
+192,2020,Q1,20,Lightbend CoE
+193,2020,Q2,20,Lightbend CoE
+194,2020,Q3,0,Lightbend CoE
+195,2020,Q4,0,Lightbend CoE
+196,2021,Q1,0,Lightbend CoE
+197,2021,Q2,0,Lightbend CoE
+200,2021,Q3,0,Lightbend CoE
+202,2021,Q4,0,Lightbend CoE
+204,2014,Q1,0,Management
+205,2014,Q2,0,Management
+206,2014,Q3,0,Management
+207,2014,Q4,0,Management
+208,2015,Q2,0,Management
+209,2015,Q3,0,Management
+210,2015,Q4,0,Management
+211,2016,Q1,0,Management
+212,2016,Q2,0,Management
+213,2016,Q3,0,Management
+214,2016,Q4,0,Management
+215,2017,Q1,0,Management
+216,2017,Q2,0,Management
+217,2017,Q3,0,Management
+218,2017,Q4,0,Management
+219,2018,Q1,0,Management
+220,2018,Q2,0,Management
+221,2018,Q3,0,Management
+222,2018,Q4,0,Management
+223,2019,Q1,0,Management
+224,2019,Q2,0,Management
+226,2019,Q3,0,Management
+227,2019,Q4,0,Management
+228,2020,Q1,0,Management
+230,2020,Q2,0,Management
+232,2020,Q3,0,Management
+233,2020,Q4,0,Management
+234,2021,Q1,0,Management
+235,2022,Q1,0,Management
+236,2010,Q2,0,Management
+237,2010,Q3,0,Management
+238,2010,Q4,0,Management
+239,2011,Q1,0,Management
+240,2011,Q2,0,Management
+241,2011,Q3,0,Management
+242,2011,Q4,0,Management
+243,2012,Q1,0,Management
+244,2012,Q2,0,Management
+245,2012,Q3,0,Management
+246,2012,Q4,0,Management
+247,2013,Q1,0,Management
+248,2013,Q2,0,Management
+249,2013,Q3,0,Management
+250,2013,Q4,0,Management
+251,2020,Q1,0,AI/ML Studio
+252,2020,Q2,0,AI/ML Studio
+255,2020,Q3,60,AI/ML Studio
+256,2020,Q4,60,AI/ML Studio
+257,2021,Q1,0,AI/ML Studio
+258,2021,Q2,20,AI/ML Studio
+259,2021,Q3,0,AI/ML Studio
+264,2021,Q4,0,AI/ML Studio
+269,2022,Q1,0,AI/ML Studio
+273,2019,Q1,0,Rust Studio
+274,2019,Q2,0,Rust Studio
+275,2019,Q3,0,Rust Studio
+276,2019,Q4,0,Rust Studio
+277,2020,Q1,0,Rust Studio
+278,2020,Q2,0,Rust Studio
+279,2020,Q3,0,Rust Studio
+280,2020,Q4,0,Rust Studio
+281,2021,Q1,0,Rust Studio
+282,2021,Q2,0,Rust Studio
+284,2021,Q3,0,Rust Studio
+287,2021,Q4,0,Rust Studio
+290,2022,Q1,0,Rust Studio
+291,2016,Q2,0,Engineering Operations
+292,2018,Q1,40,Engineering Operations
+293,2019,Q1,0,Engineering Operations
+294,2019,Q2,0,Engineering Operations
+295,2019,Q3,20,Engineering Operations
+296,2019,Q4,20,Engineering Operations
+297,2020,Q1,0,Engineering Operations
+298,2021,Q1,0,Engineering Operations
+299,2022,Q1,0,Engineering Operations
+300,2019,Q1,0,Frontend Studio
+301,2019,Q2,20,Frontend Studio
+302,2019,Q3,20,Frontend Studio
+303,2019,Q4,20,Frontend Studio
+304,2020,Q2,0,Frontend Studio
+306,2020,Q3,0,Frontend Studio
+308,2020,Q4,0,Frontend Studio
+310,2021,Q2,20,Frontend Studio
+311,2021,Q3,40,Frontend Studio
+312,2021,Q4,40,Frontend Studio
+313,2022,Q1,20,Frontend Studio
+315,2020,Q2,0,Account Management
+316,2022,Q1,0,Account Management
+320,2021,Q2,20,Learning and Development
+321,2021,Q3,40,Learning and Development
+322,2021,Q4,40,Learning and Development
+323,2021,Q2,20,Agile Studio
+324,2021,Q3,0,Agile Studio
+327,2021,Q4,0,Agile Studio
+330,2022,Q1,0,Agile Studio
+331,2022,Q1,40,Interns
