@@ -1,0 +1,230 @@
+studio_name,year,quarter,total_score
+AI/ML Studio,2020.0,Q2,10.0
+AI/ML Studio,2021.0,Q2,40.0
+AI/ML Studio,2021.0,Q3,90.0
+AI/ML Studio,2021.0,Q4,90.0
+AI/ML Studio,2022.0,Q1,90.0
+AI/ML Studio,2022.0,Q2,40.0
+Account Management,2020.0,Q2,5.0
+Agile Studio,2021.0,Q2,20.0
+Agile Studio,2021.0,Q3,5.0
+Agile Studio,2021.0,Q4,5.0
+Agile Studio,2022.0,Q1,45.0
+DevOps Studio,2019.0,Q1,15.0
+DevOps Studio,2019.0,Q2,35.0
+DevOps Studio,2019.0,Q3,60.0
+DevOps Studio,2019.0,Q4,60.0
+DevOps Studio,2020.0,Q1,65.0
+DevOps Studio,2020.0,Q2,55.0
+DevOps Studio,2020.0,Q3,50.0
+DevOps Studio,2020.0,Q4,50.0
+DevOps Studio,2021.0,Q1,70.0
+DevOps Studio,2021.0,Q2,130.0
+DevOps Studio,2021.0,Q3,630.0
+DevOps Studio,2021.0,Q4,630.0
+DevOps Studio,2022.0,Q1,1740.0
+DevOps Studio,2022.0,Q2,30.0
+Engineering Operations,2016.0,Q2,10.0
+Engineering Operations,2018.0,Q1,40.0
+Engineering Operations,2019.0,Q1,5.0
+Engineering Operations,2019.0,Q2,5.0
+Engineering Operations,2019.0,Q3,20.0
+Engineering Operations,2019.0,Q4,20.0
+Engineering Operations,2020.0,Q1,5.0
+Engineering Operations,2021.0,Q1,20.0
+Frontend Studio,2019.0,Q1,10.0
+Frontend Studio,2019.0,Q2,20.0
+Frontend Studio,2019.0,Q3,20.0
+Frontend Studio,2019.0,Q4,20.0
+Frontend Studio,2020.0,Q2,45.0
+Frontend Studio,2020.0,Q3,25.0
+Frontend Studio,2020.0,Q4,25.0
+Frontend Studio,2021.0,Q2,25.0
+Frontend Studio,2021.0,Q3,220.0
+Frontend Studio,2021.0,Q4,220.0
+Frontend Studio,2022.0,Q1,170.0
+Frontend Studio,2022.0,Q2,30.0
+Java Studio,2015.0,Q2,5.0
+Java Studio,2015.0,Q3,5.0
+Java Studio,2015.0,Q4,5.0
+Java Studio,2016.0,Q1,10.0
+Java Studio,2016.0,Q2,10.0
+Java Studio,2016.0,Q3,15.0
+Java Studio,2016.0,Q4,15.0
+Java Studio,2017.0,Q1,5.0
+Java Studio,2017.0,Q3,5.0
+Java Studio,2017.0,Q4,5.0
+Java Studio,2018.0,Q2,10.0
+Java Studio,2018.0,Q3,15.0
+Java Studio,2018.0,Q4,15.0
+Java Studio,2019.0,Q1,50.0
+Java Studio,2019.0,Q2,5.0
+Java Studio,2019.0,Q3,45.0
+Java Studio,2019.0,Q4,45.0
+Java Studio,2020.0,Q1,105.0
+Java Studio,2020.0,Q2,80.0
+Java Studio,2020.0,Q3,75.0
+Java Studio,2020.0,Q4,75.0
+Java Studio,2021.0,Q1,35.0
+Java Studio,2021.0,Q2,55.0
+Java Studio,2021.0,Q3,40.0
+Java Studio,2021.0,Q4,40.0
+Java Studio,2022.0,Q1,140.0
+Java Studio,2022.0,Q2,15.0
+Learning and Development,2021.0,Q2,25.0
+Learning and Development,2021.0,Q3,40.0
+Learning and Development,2021.0,Q4,40.0
+Lightbend CoE,2014.0,Q1,15.0
+Lightbend CoE,2014.0,Q2,55.0
+Lightbend CoE,2014.0,Q3,20.0
+Lightbend CoE,2014.0,Q4,20.0
+Lightbend CoE,2015.0,Q1,5.0
+Lightbend CoE,2015.0,Q2,10.0
+Lightbend CoE,2015.0,Q3,5.0
+Lightbend CoE,2015.0,Q4,5.0
+Lightbend CoE,2016.0,Q1,50.0
+Lightbend CoE,2016.0,Q2,10.0
+Lightbend CoE,2016.0,Q3,15.0
+Lightbend CoE,2016.0,Q4,15.0
+Lightbend CoE,2017.0,Q1,10.0
+Lightbend CoE,2017.0,Q2,15.0
+Lightbend CoE,2017.0,Q3,30.0
+Lightbend CoE,2017.0,Q4,30.0
+Lightbend CoE,2018.0,Q1,5.0
+Lightbend CoE,2018.0,Q2,40.0
+Lightbend CoE,2019.0,Q1,25.0
+Lightbend CoE,2019.0,Q2,10.0
+Lightbend CoE,2019.0,Q3,110.0
+Lightbend CoE,2019.0,Q4,110.0
+Lightbend CoE,2020.0,Q1,20.0
+Lightbend CoE,2020.0,Q2,75.0
+Lightbend CoE,2020.0,Q3,10.0
+Lightbend CoE,2020.0,Q4,10.0
+Lightbend CoE,2021.0,Q1,20.0
+Lightbend CoE,2021.0,Q2,15.0
+Lightbend CoE,2021.0,Q3,20.0
+Lightbend CoE,2021.0,Q4,20.0
+Lightbend CoE,2022.0,Q1,30.0
+Management,2010.0,Q2,70.0
+Management,2010.0,Q3,95.0
+Management,2010.0,Q4,95.0
+Management,2011.0,Q1,55.0
+Management,2011.0,Q2,60.0
+Management,2011.0,Q3,35.0
+Management,2011.0,Q4,35.0
+Management,2012.0,Q1,20.0
+Management,2012.0,Q2,5.0
+Management,2012.0,Q3,35.0
+Management,2012.0,Q4,35.0
+Management,2013.0,Q1,25.0
+Management,2013.0,Q2,15.0
+Management,2013.0,Q3,15.0
+Management,2013.0,Q4,15.0
+Management,2014.0,Q1,25.0
+Management,2014.0,Q2,15.0
+Management,2014.0,Q3,5.0
+Management,2014.0,Q4,5.0
+Management,2015.0,Q2,5.0
+Management,2015.0,Q3,15.0
+Management,2015.0,Q4,15.0
+Management,2016.0,Q1,25.0
+Management,2016.0,Q2,15.0
+Management,2016.0,Q3,15.0
+Management,2016.0,Q4,15.0
+Management,2017.0,Q1,10.0
+Management,2017.0,Q2,5.0
+Management,2017.0,Q3,10.0
+Management,2017.0,Q4,10.0
+Management,2018.0,Q1,5.0
+Management,2018.0,Q2,5.0
+Management,2018.0,Q3,5.0
+Management,2018.0,Q4,5.0
+Management,2019.0,Q1,35.0
+Management,2019.0,Q2,30.0
+Management,2019.0,Q3,305.0
+Management,2019.0,Q4,305.0
+Management,2020.0,Q1,10.0
+Management,2020.0,Q2,15.0
+Management,2020.0,Q3,5.0
+Management,2020.0,Q4,5.0
+Management,2021.0,Q1,5.0
+Management,2022.0,Q1,5.0
+Marketing,2018.0,Q2,10.0
+Marketing,2018.0,Q3,5.0
+Marketing,2018.0,Q4,5.0
+Marketing,2019.0,Q1,5.0
+Marketing,2019.0,Q2,10.0
+Marketing,2019.0,Q3,5.0
+Marketing,2019.0,Q4,5.0
+Marketing,2020.0,Q1,10.0
+Marketing,2020.0,Q2,25.0
+Marketing,2020.0,Q3,20.0
+Marketing,2020.0,Q4,20.0
+Marketing,2021.0,Q1,20.0
+Marketing,2021.0,Q2,10.0
+Marketing,2021.0,Q3,35.0
+Marketing,2021.0,Q4,35.0
+Rust Studio,2019.0,Q1,40.0
+Rust Studio,2019.0,Q2,70.0
+Rust Studio,2019.0,Q3,235.0
+Rust Studio,2019.0,Q4,235.0
+Rust Studio,2020.0,Q1,30.0
+Rust Studio,2020.0,Q2,175.0
+Rust Studio,2020.0,Q3,100.0
+Rust Studio,2020.0,Q4,100.0
+Rust Studio,2021.0,Q1,105.0
+Rust Studio,2021.0,Q2,35.0
+Rust Studio,2021.0,Q3,85.0
+Rust Studio,2021.0,Q4,85.0
+Scala Studio,2014.0,Q1,10.0
+Scala Studio,2014.0,Q2,10.0
+Scala Studio,2014.0,Q3,15.0
+Scala Studio,2014.0,Q4,15.0
+Scala Studio,2015.0,Q2,10.0
+Scala Studio,2015.0,Q3,5.0
+Scala Studio,2015.0,Q4,5.0
+Scala Studio,2016.0,Q1,15.0
+Scala Studio,2016.0,Q2,5.0
+Scala Studio,2016.0,Q3,10.0
+Scala Studio,2016.0,Q4,10.0
+Scala Studio,2017.0,Q1,25.0
+Scala Studio,2017.0,Q2,30.0
+Scala Studio,2017.0,Q3,30.0
+Scala Studio,2017.0,Q4,30.0
+Scala Studio,2018.0,Q1,40.0
+Scala Studio,2018.0,Q2,15.0
+Scala Studio,2018.0,Q3,80.0
+Scala Studio,2018.0,Q4,80.0
+Scala Studio,2019.0,Q1,105.0
+Scala Studio,2019.0,Q2,85.0
+Scala Studio,2019.0,Q3,95.0
+Scala Studio,2019.0,Q4,95.0
+Scala Studio,2020.0,Q1,50.0
+Scala Studio,2020.0,Q2,160.0
+Scala Studio,2020.0,Q3,175.0
+Scala Studio,2020.0,Q4,175.0
+Scala Studio,2021.0,Q1,115.0
+Scala Studio,2021.0,Q2,115.0
+Scala Studio,2021.0,Q3,155.0
+Scala Studio,2021.0,Q4,155.0
+Scala Studio,2022.0,Q1,675.0
+Scala Studio,2022.0,Q2,40.0
+Test Automation Studio,2016.0,Q1,5.0
+Test Automation Studio,2017.0,Q1,30.0
+Test Automation Studio,2018.0,Q1,40.0
+Test Automation Studio,2018.0,Q2,20.0
+Test Automation Studio,2018.0,Q3,20.0
+Test Automation Studio,2018.0,Q4,20.0
+Test Automation Studio,2019.0,Q2,20.0
+Test Automation Studio,2019.0,Q3,20.0
+Test Automation Studio,2019.0,Q4,20.0
+Test Automation Studio,2020.0,Q1,30.0
+Test Automation Studio,2020.0,Q2,30.0
+Test Automation Studio,2020.0,Q3,40.0
+Test Automation Studio,2020.0,Q4,40.0
+Test Automation Studio,2021.0,Q1,75.0
+Test Automation Studio,2021.0,Q2,115.0
+Test Automation Studio,2021.0,Q3,35.0
+Test Automation Studio,2021.0,Q4,35.0
+Test Automation Studio,2022.0,Q1,165.0
+Test Automation Studio,2022.0,Q2,100.0
